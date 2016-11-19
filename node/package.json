@@ -1,0 +1,22 @@
+{
+  "name": "collatz",
+  "version": "1.0.0",
+  "description": "Benchmark between rust and node by generating collatz conjecture steps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Swaagie/collatz.git"
+  },
+  "author": "Martijn Swaagman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swaagie/collatz/issues"
+  },
+  "homepage": "https://github.com/Swaagie/collatz#readme",
+  "dependencies": {
+    "ffi": "~2.2.0"
+  }
+}
