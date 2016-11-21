@@ -39,3 +39,4 @@ jspm_packages
 # Rust build files
 Cargo.lock
 target
+build
